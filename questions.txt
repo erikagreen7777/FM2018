@@ -1,0 +1,11 @@
+drop table for referrals
+
+
+query table is needed for pulling informaiton from more than one database table. not needed if info is just coming from one table
+CyberCenter - what is it? Like the libraries at the computer (computer lab).
+what is the capacity of the cybercenter?
+page 9 Center visito sigs in to hall booking event (office):
+ -	who is the visitor? a potential presenter or a potential attendee?
+what is office and what is field?
+pg 1 - sign-ins are dont at one site, maybe 2 sites. Is that going to be 2 offices? 
+drop down button for referrals - multiple selections
