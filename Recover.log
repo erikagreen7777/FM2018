@@ -1,0 +1,4 @@
+﻿Timestamp	Filename	Error	Message
+2018-06-19 11:34:13.548 -0400	LGBTQ (1).fmp12	0	*** Started consistency check of improperly closed file, total of 362 block(s) to check
+2018-06-19 11:34:13.675 -0400	LGBTQ (1).fmp12	0	Reset maximum block sequence number to 192888
+2018-06-19 11:34:13.675 -0400	LGBTQ (1).fmp12	0	*** Completed consistency check, checked 362 block(s)
